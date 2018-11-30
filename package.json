@@ -1,6 +1,6 @@
 {
   "author": "Stuart Espey",
-  "name": "w3c-xmlhttprequest-plus",
+  "name": "w3c-xmlhttprequest",
   "description": "Server-side XMLHttpRequest. Plus.",
   "version": "2.2.0",
   "license": "MIT",
