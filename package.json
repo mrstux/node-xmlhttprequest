@@ -1,13 +1,13 @@
 {
-  "author": "Stuart Espey",
+  "author": "Yamagishi Kazutoshi",
   "name": "w3c-xmlhttprequest",
-  "description": "Server-side XMLHttpRequest. Plus.",
-  "version": "2.2.0",
+  "description": "Server-side XMLHttpRequest.",
+  "version": "2.1.2",
   "license": "MIT",
-  "homepage": "https://github.com/mrstux/node-xmlhttprequest",
+  "homepage": "https://github.com/ykzts/node-xmlhttprequest",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mrstux/node-xmlhttprequest.git"
+    "url": "git://github.com/ykzts/node-xmlhttprequest.git"
   },
   "main": "./lib/index.js",
   "scripts": {
